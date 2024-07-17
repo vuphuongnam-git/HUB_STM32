@@ -1,0 +1,5 @@
+Added Component: Designator=R13(SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=FB Pin=R13-2
+Added Member To Class: ClassName=Sheet2 Member=Component R13 1K

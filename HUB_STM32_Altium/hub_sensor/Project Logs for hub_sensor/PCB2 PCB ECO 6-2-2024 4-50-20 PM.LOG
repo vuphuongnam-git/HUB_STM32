@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC13_2 Pin=X1-1
+Removed Pin From Net: NetName=NetC11_2 Pin=X1-2
+Removed Member From Class: ClassName=Sheet2 Member=X1
+Change Component Comment : Designator=H1 Old Comment=Header 2P 2.54 Duc Thang New Comment=Header 2P
+Added Component: Designator=Y1(XTAL_ABS07L-32.768KHZ-T)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ABS07L-32.768KHZ-T/Abracon+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ABS07L-32.768KHZ-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ABS07L-32.768KHZ-T/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ABS07L-32.768KHZ-T/Abracon+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC13_2 Pin=Y1-1
+Added Pin To Net: NetName=NetC11_2 Pin=Y1-2
+Added Member To Class: ClassName=Sheet2 Member=Component Y1 32.768KHZ

@@ -1,0 +1,10 @@
+Added Component: Designator=L1(IND_90.5_141.7_125X31_SMD)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sunlord"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WPN3012H1R0MT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "NA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SW Pin=L1-1
+Added Pin To Net: NetName=5V Pin=L1-2
+Added Member To Class: ClassName=Sheet2 Member=Component L1 WPN3012H1R0MT

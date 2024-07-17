@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=EN Pin=-1
+Removed Pin From Net: NetName=VIN Pin=-2
+Added Component: Designator=R1(SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=R1-1
+Added Pin To Net: NetName=EN Pin=R1-2
+Added Member To Class: ClassName=Sheet2 Member=Component R1 510K

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=SW Pin=L1-1
+Removed Pin From Net: NetName=5V Pin=L1-2
+Change Component Footprint: Designator=L1 Old Footprint=SRN5040TA-220M New Footprint=IND_SRN5040_BRN
+Change Component Comment : Designator=L1 Old Comment=SRN5040TA-220M New Comment=SRN5040-3R3M
+Change component parameters: Designator = "L1" ("L1"); Footprint = "SRN5040TA-220M"; UniqueID = "\SAWMTJSC" ("\SAWMTJSC")
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "SRN5040-3R3MTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "SRN5040-3R3MCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "SRN5040-3R3MDKR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Bourns Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=L1-1
+Added Pin To Net: NetName=SW Pin=L1-2

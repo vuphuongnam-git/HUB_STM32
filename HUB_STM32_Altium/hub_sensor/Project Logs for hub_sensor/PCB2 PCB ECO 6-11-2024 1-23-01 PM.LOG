@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=USBDP Pin=U1-33
+Change Net Name : Old Net Name=USBDP New Net Name=3.3V
+Added Pin To Net: NetName=USBDP Pin=R9-2
+Added Pin To Net: NetName=USBDP Pin=U1-33
+Added Pin To Net: NetName=USBDP Pin=USB1-3
+Added Net: Name=USBDP

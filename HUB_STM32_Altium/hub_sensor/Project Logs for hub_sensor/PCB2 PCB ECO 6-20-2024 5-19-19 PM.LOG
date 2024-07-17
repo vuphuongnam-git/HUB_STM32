@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC11_1 Pin=X2-1
+Removed Pin From Net: NetName=NetC9_1 Pin=X2-2
+Removed Member From Class: ClassName=Sheet2 Member=X2
+Added Component: Designator=XTAL1(Q13MC30610006_EPS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Epson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC9_1 Pin=XTAL1-1
+Added Pin To Net: NetName=NetC11_1 Pin=XTAL1-4
+Added Member To Class: ClassName=Sheet2 Member=Component XTAL1 32.768KHZ

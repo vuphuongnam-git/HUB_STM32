@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=BT1 Old Footprint=BAT-2 New Footprint=PIN3V
+Change Component Comment : Designator=BT1 Old Comment=Battery New Comment=PIN 3V
+Change Component Designator: OldDesignator=U2 NewDesignator=ts
+Change component parameters: Designator = "BT1" ("BT1"); Footprint = "BAT-2"; UniqueID = "\TLTTIING" ("\TLTTIING")
+Change component parameters (AddParameter): Name = "Value"; Value = "PIN 3V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet2 Member=Component C3 104pF
+Added Member To Class: ClassName=Sheet2 Member=Component C11 20pF
+Added Member To Class: ClassName=Sheet2 Member=Component C13 20pF
+Added Member To Class: ClassName=Sheet2 Member=Component C15 10uF
+Added Member To Class: ClassName=Sheet2 Member=Component C16 104
+Added Member To Class: ClassName=Sheet2 Member=Component R2 510k
+Added Member To Class: ClassName=Sheet2 Member=Component R9 1,7K

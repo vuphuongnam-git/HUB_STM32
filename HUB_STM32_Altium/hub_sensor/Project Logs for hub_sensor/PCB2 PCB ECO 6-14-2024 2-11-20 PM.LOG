@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=TX1 Pin=H1-1
+Removed Pin From Net: NetName=RX1 Pin=H1-2
+Change Component Footprint: Designator=H1 Old Footprint=XH2.54M-2 New Footprint=XH2.54M-4
+Change Component Comment : Designator=H1 Old Comment=Header 2P New Comment=Header 4P
+Change component parameters: Designator = "H1" ("H1"); Footprint = "XH2.54M-2"; UniqueID = "\RMHNKIBX" ("\RMHNKIBX")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=H1-1
+Added Pin To Net: NetName=TX1 Pin=H1-2
+Added Pin To Net: NetName=RX1 Pin=H1-3
+Added Pin To Net: NetName=GND Pin=H1-4

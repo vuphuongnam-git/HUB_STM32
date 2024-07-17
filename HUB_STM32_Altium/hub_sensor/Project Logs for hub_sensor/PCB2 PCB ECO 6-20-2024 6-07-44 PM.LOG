@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=EN Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R4-2
+Change Component Footprint: Designator=R4 Old Footprint=SM-0805 New Footprint=SM-1206
+Change Component Comment : Designator=R4 Old Comment=510K New Comment=105k
+Change component parameters: Designator = "R4" ("R4"); Footprint = "SM-0805"; UniqueID = "\KBVIXNRU" ("\KBVIXNRU")
+Change component parameters (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=EN Pin=R4-2

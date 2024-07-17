@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=RX2 Pin=J2-2
+Removed Pin From Net: NetName=TX2 Pin=J2-3
+Removed Pin From Net: NetName=3.3V Pin=J2-4
+Change Component Footprint: Designator=L1 Old Footprint=IND_90.5_141.7_125X31_SMD New Footprint=IND_370_401_140X70_SMD
+Change Component Designator: OldDesignator=J2 NewDesignator= 
+Added Pin To Net: NetName=3.3V Pin= -1
+Added Pin To Net: NetName=TX2 Pin= -2
+Added Pin To Net: NetName=RX2 Pin= -3
+Added Pin To Net: NetName=GND Pin= -4

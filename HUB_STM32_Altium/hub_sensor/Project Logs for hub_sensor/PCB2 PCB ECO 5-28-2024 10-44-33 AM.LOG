@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=JDC1-1
+Removed Pin From Net: NetName=GND Pin=JDC1-2
+Removed Pin From Net: NetName=GND Pin=JDC1-3
+Removed Member From Class: ClassName=Sheet2 Member=JDC1
+Added Component: Designator=JACK DC1(JACK DC 5.5)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_1 Pin=JACK DC1-1
+Added Pin To Net: NetName=GND Pin=JACK DC1-2
+Added Pin To Net: NetName=GND Pin=JACK DC1-3
+Added Member To Class: ClassName=Sheet2 Member=Component JACK DC1 JACK DC 5.5

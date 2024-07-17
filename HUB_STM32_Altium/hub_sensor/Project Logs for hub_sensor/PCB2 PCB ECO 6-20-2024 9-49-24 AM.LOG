@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=5V Pin=H1-1
+Removed Pin From Net: NetName=TX1 Pin=H1-2
+Removed Pin From Net: NetName=RX1 Pin=H1-3
+Removed Pin From Net: NetName=GND Pin=H1-4
+Removed Pin From Net: NetName=3.3V Pin=R10-1
+Removed Pin From Net: NetName=3.3V Pin=USB1-1
+Removed Pin From Net: NetName=USBDM Pin=USB1-2
+Removed Pin From Net: NetName=NetC11_2 Pin=Y1-1
+Removed Pin From Net: NetName=NetC9_2 Pin=Y1-2
+Removed Member From Class: ClassName=Sheet2 Member=H1
+Removed Member From Class: ClassName=Sheet2 Member=HD1
+Removed Member From Class: ClassName=Sheet2 Member=Y1
+Change Component Footprint: Designator=L1 Old Footprint=IND_90.5_141.7_125X31_SMD New Footprint=SRN5040TA-220M
+Change Component Comment : Designator=C9 Old Comment=10pF New Comment=20pF
+Change Component Comment : Designator=C11 Old Comment=10pF New Comment=20pF
+Change Component Comment : Designator=C8 Old Comment=75pF New Comment=100pF
+Change Component Comment : Designator=C16 Old Comment=104 New Comment=104, 0603
+Change Component Comment : Designator=C2 Old Comment=104pF New Comment=104
+Change Component Comment : Designator=L1 Old Comment=WPN3012H1R0MT New Comment=SRN5040TA-220M
+Change component parameters: Designator = "L1" ("L1"); Footprint = "IND_90.5_141.7_125X31_SMD"; UniqueID = "\MKHIMOWQ" ("\MKHIMOWQ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "No availability data"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SRN5040TA220M/Bourns/view-part/4915271/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SRN5040TA220M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SRN5040TA220M/Bourns/view-part/4915271/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(TE_282834-4)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282834-4/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282834-4/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282834-4/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X2(XT32k)
+Add component (AddParameter): Name = "Value"; Value = "32,768khz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=J4-1
+Added Pin To Net: NetName=TX1 Pin=J4-2
+Added Pin To Net: NetName=RX1 Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=5V Pin=U1-33
+Added Pin To Net: NetName=5V Pin=USB1-1
+Added Pin To Net: NetName=NetC11_2 Pin=X2-1
+Added Pin To Net: NetName=NetC9_2 Pin=X2-2
+Change Net Name : Old Net Name=5V New Net Name=USBDP
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_2 Pin=USB1-2
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR12_2 Pin=USB1-3
+Added Net: Name=NetR12_2
+Added Member To Class: ClassName=Sheet2 Member=Component J4 282834-4
+Added Member To Class: ClassName=Sheet2 Member=Component X2 32,768 Khz
